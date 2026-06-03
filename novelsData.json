@@ -1,0 +1,27 @@
+[
+    {
+        "imgSrc": "img/rezero.jpg",
+        "title": "Re:Zero",
+        "subTitle": "Viajes temporales y sufrimiento." 
+    },
+    {
+        "imgSrc": "img/sao.webp",
+        "title": "Sword Art Online",
+        "subTitle": "Videojuegos y supervivencia." 
+    },
+    {
+        "imgSrc": "img/nogame.jpeg",
+        "title": "No Game No Life",
+        "subTitle": "Todo se decide con juegos." 
+    },
+    {
+        "imgSrc": "img/Overlord_volumen_1.webp",
+        "title": "Overlord",
+        "subTitle": "El rey supremo de Nazarick." 
+    },
+    {
+        "imgSrc": "img/Classroom of the Elite.webp",
+        "title": "Classroom of the Elite<",
+        "subTitle": "Estrategia y manipulación." 
+    }
+]

@@ -1,0 +1,27 @@
+[
+    {
+        "imgSrc": "img/naruto.webp",
+        "title": "Naruto",
+        "subTitle": "El ninja que nunca se rinde." 
+    },
+    {
+        "imgSrc": "img/one_piece.jpeg",
+        "title": "One Piece",
+        "subTitle": "La aventura pirata definitiva." 
+    },
+    {
+        "imgSrc": "img/attack-on-titan.jpg",
+        "title": "Attack on Titan",
+        "subTitle": "La lucha por la libertad." 
+    },
+    {
+        "imgSrc": "img/Dragon_Ball_Super.webp",
+        "title": "Dragon Ball",
+        "subTitle": "Batallas épicas y transformación." 
+    },
+    {
+        "imgSrc": "img/Demon-Slayer-Kimetsu-no-Yaiba-The-Hinokami-Chronicles.png",
+        "title": "Demon Slayer",
+        "subTitle": "Cazadores de demonios." 
+    }
+]

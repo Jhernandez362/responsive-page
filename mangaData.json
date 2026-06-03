@@ -1,0 +1,27 @@
+[
+    {
+        "imgSrc": "img/Berserk_Vol_1.webp",
+        "title": "Berserk",
+        "subTitle": "Fantasía oscura y brutal." 
+    },
+    {
+        "imgSrc": "img/images.jpeg",
+        "title": "Vagabond",
+        "subTitle": "La vida del samurái Musashi." 
+    },
+    {
+        "imgSrc": "img/Tokyo_Ghoul_volume_1_cover.jpg",
+        "title": "Tokyo Ghoul",
+        "subTitle": "Humanos y ghouls en conflicto." 
+    },
+    {
+        "imgSrc": "img/monster.webp",
+        "title": "Monster",
+        "subTitle": "Thriller psicológico legendario." 
+    },
+    {
+        "imgSrc": "img/chainsaw.webp",
+        "title": "Chainsaw Man",
+        "subTitle": "Acción caótica y demonios." 
+    }
+]
