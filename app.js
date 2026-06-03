@@ -1,4 +1,6 @@
 const animeGrid = document.getElementById("anime-grid");
+const mangaGrid = document.getElementById("manga-grid");
+const novelGrid = document.getElementById("novel-grid");
 
 
 async function loadData() {
@@ -42,6 +44,36 @@ async function loadData() {
             <p>${anime.subTitle}</p>
         </div>`;
             animeGrid.appendChild(tarjeta);
+        })
+
+        mangas.forEach(manga => {
+            const tarjeta = document.createElement("div");
+            tarjeta.className = "card";
+
+
+            tarjeta.innerHTML =
+                `<img src="${manga.imgSrc}" alt="${anime.title}">
+        <div class="overlay"></div>
+        <div class="card-content">
+            <h3>${manga.title}</h3>
+            <p>${manga.subTitle}</p>
+        </div>`;
+            mangaGrid.appendChild(tarjeta);
+        })
+
+        mangas.forEach(novel => {
+            const tarjeta = document.createElement("div");
+            tarjeta.className = "card";
+
+
+            tarjeta.innerHTML =
+                `<img src="${novel.imgSrc}" alt="${novel.title}">
+        <div class="overlay"></div>
+        <div class="card-content">
+            <h3>${novel.title}</h3>
+            <p>${novel.subTitle}</p>
+        </div>`;
+            novelGrid.appendChild(tarjeta);
         })
 
     }catch (error) {
